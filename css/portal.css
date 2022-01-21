@@ -143,6 +143,12 @@ body {
     }
 }
 
+.mapa {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: auto;
+}
 .stopka {
     background: black;
     color: #ddd;
